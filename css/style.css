@@ -34,6 +34,9 @@ body{
 .row img{
 	width: 100%;
 }
+.row div h1{
+	margin: 5px 20px;
+}
 /* data time uzeride emeller */
 .dateTime{
 	width: 50px;
@@ -59,14 +62,15 @@ body{
 	text-align: center;
 	position: absolute;
 	bottom: 0px;
+	background: #F2F2F2;
+	padding: 8px 0px;
+	box-shadow: 2px;
+	border-top: 2px solid gray;
 }
 .socialButtons span{
 	font-size: 1.3em;
 }
 i{
 	width: 32%;
-	box-shadow:0 0 0 2px;
 	color: #999999;
-	background: #F2F2F2;
 }
-
